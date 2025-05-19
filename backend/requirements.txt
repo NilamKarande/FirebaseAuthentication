@@ -1,0 +1,5 @@
+Flask==2.3.2
+flask-cors==3.0.10
+pyrebase4==4.7.1
+python-dotenv==1.0.0
+firebase_admin==6.8.0
